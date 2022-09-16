@@ -1,0 +1,92 @@
+.day_temp_container{
+    /* background-color:aqua; */
+    /* padding:1rem; */
+    padding-left:1rem;
+    padding-top:0rem;
+    display:flex;
+    width:100%;
+    flex-wrap: wrap;
+   
+  
+}
+.day_temp_wrapper{
+    /* background-color:greenyellow; */
+    border:1px solid grey;
+    border-radius:0.6rem;
+    padding:0px;
+    margin-right: 0.5rem;
+    /* width:100%; */
+    margin-top:0.9rem;
+    display:flex;
+  
+
+
+  
+}
+.content_container{
+    display:flex;
+    flex-direction:column;
+    color:white;
+    background-color:rgb(10, 7, 7);
+    height:12rem;
+    /* width:20rem; */
+    /* padding-left:1rem; */
+    padding-top:0rem;
+    border-radius:0.6rem;
+    display:flex;
+    align-items:center;
+    justify-content: flex-start;
+    /* margin-right:0.4rem; */
+   
+    width:100%;
+    padding-left:2rem;
+    padding-right:2rem;
+    background-image: linear-gradient(rgb(6, 4, 4), rgb(59, 59, 29));
+
+   
+}
+.days{
+    margin-bottom:0.8rem;
+    margin-top:0.3rem;
+}
+.image_weather{
+    margin-bottom:0.6rem;
+    border-radius:1rem
+}
+
+.two_temp{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+   
+}
+.first_temp{
+    margin-right:2rem;
+}
+
+/* .horiz:active{
+    height:2px;
+    width:100%;
+    border-bottom: 2px solid yellow;
+    margin-top:0.6rem
+} */
+
+.tab:active{
+    border-bottom:  0.2rem solid yellow;
+}
+
+.tab:before{
+    border-bottom: 0.2rem solid yellow;
+   
+}
+.tab:after{
+    border-bottom:  0.2rem solid yellow;
+}
+
+.tab:hover{
+    border-bottom:  0.2rem solid yellow;
+}
+
+.temp_heading{
+    margin-bottom:0.6rem;
+}

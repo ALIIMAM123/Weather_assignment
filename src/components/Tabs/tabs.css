@@ -1,0 +1,44 @@
+.tabs_container{
+    /* background-color:rgb(63, 62, 62); */
+    margin-top:0.3rem;
+    width:100vw;
+   padding:0.7rem;
+   position:relative;
+   padding-bottom:0rem !important;
+   margin-top:0rem !important;
+  
+}
+.tab_wrapper{
+    display:flex; 
+    color:white;
+    display:flex;
+    width:20%;
+   flex:10;
+    /* background-color:red; */
+    /* position:relative */
+}
+.tab{
+   flex:1;
+   margin-right:1rem;
+   /* border-bottom: 2px solid yellow; */
+   cursor:pointer;
+   
+  
+}
+
+.horiz{
+    /* height:2px;
+   width:100%;
+   border-bottom: none;
+   margin-top:0.6rem */
+}
+
+/* .horiz:active{
+    height:2px;
+    width:100%;
+    border-bottom: 2px solid yellow;
+    margin-top:0.6rem
+} */
+
+
+
